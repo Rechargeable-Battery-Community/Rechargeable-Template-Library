@@ -1,0 +1,6 @@
+== Rechargeable Template Library ==
+
+The Rehchargeable Template Library is a collection of C++ libraries to ease game development.
+
+=== Libraries ===
+* Flag Set - contains a type-safe implementation of flags in C++.
